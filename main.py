@@ -1,0 +1,22 @@
+import lzma,base64
+exec(lzma.decompress(base64.b85decode(
+"{Wp48S^xk9=GL@E0stWa8~^|S5YJf5;2MAo7hM1}n@VT6Qap3u7A1{kq%B%pNR+$DLwL$0iwrp^5Bi%=rE4sTEkelc36)0bsGBg5%DD?GsD*j4wNe6sMJ0LoO=J&pl%=87;il&0^Ast^bCg<WFe&C>62M{V_UglRkVU<D42MDIW#8&LPp$YFi9vO*t3QxV9<JSXT$el9"
+"`62~hd{1Ti5x{%WTg542#(FC7j}O=(8b2@ek-<!0N;f@kTo}z6VoC8TWoRuK#hS1^ry?{hZXoT&k@o>J`13<x_20eHNj}hwfYXZPpVDj`&Cz)wvk*3rmpguyxH{(aHETLQVL86aun4Q1li~^=S&G4tJB@TGN~D!H{M`dg^)B)OG)Vpt@iLk77BK+ESK+>e<1i9J$>GJY"
+"f{@Uk6luXli+HiE`n?2xVX7l61Xr=4wS6y%whc;$MYDnBdZd_6X{AZOqmBleB%upkS;DeldsSXpPQTasuE-X*bTdrbASnXIVhViK>$g)i*r@^{AawmWX=hS%>ni@g4b;UX1m;TKjQ|QYw1ViXb9^nL74;fsP(1qM*MY1w>HB@>YVQw1y77aEK&~r*kaSlR9{Gf_gW<qk"
+"fSp@S^d52rC+MMq@-g1_9G&0D{1P6$E?<`_3*@u#O?<zG%R#cg;?`JePOv(GG+Bf%WV0)H(Zh4E&;&n+^ou@wsoMato4cgcCAl8F8Tz*Kt@xf@F`t4vSP*3Wgx|HtjIiNOnGiTM=B@`MXukXkr`FWh{V%-$Kis{{8u?*;lI1;iXt=pDD#_okp#55-=*A^o`dIkMEb1cL"
+"vXk+*Pe#2Lg&u(gs)^GnrJ;(AwY3u+bzN+RvEw7wb}b3G_3fRz`~qVA4FW1;P4T+hZkVprdl>__-;W$qHH%j71y{iQuYjB??>o4EIT?>>joC{+sK%EFAF3zB@0yAj389fiQ#$$lZmlkbWLO=(C*L|S&w>r;8QU)??165t4SH;B9NrJeP^4jVG}{b5z0e}Y<_FYmFm}r8"
+"QQoYjf)cCYJ`c`=W07TE$g-DWL~Kx-n+9t1KPv|Ks{*N^tX$G22uA!p*CEf&s$au}OOq4XwiPac@wA(`dw=T5y3&|bX8`MrQr@kC<Rq-Nh>i&lMnyp3Yvl7-f+@{L)CBZ1Z7ct|o^s)3TV`HV=dvPGI6XhLMAOF|B<6-;bRiV46Lx$z8Pz9vaMUEFxvcsr$<@=j{qfoA"
+"=ebKx!@rwUd+*s36Fm*bY_tM6ESZm5Fa~z9rF)VJuH4(X&i4m~Q(__^Ys`H>sf6?S-BEC@sTt9uxtqSE(oZOp*%3tEpau~B<OmigI#`_e*U@qvs!#*;RUx#B`V=kp)^0^B+3W(-CpC98;D@FFKne|wP+&9jjxpk+$1j@fSPZ2_D>gEOmG-KT`>6k4M{<baON<(MkxZe|"
+"D8egJ!%~|OSFrSm`5tF}6f9QldEJ$%0JM7~y}HXs*}$?0&FCEW#~hDeD9nl6_1kD?pFBe$+WO0BdJ&fW)Ldg&kWJp@;^MwJG(2deKge@*g;YkLHi6A0p<aa;r9fG<mv&~Xrkjc1yXEt?;yDSqgmDZ0vDd?9rO_J9z+=3u;XSLx_p>*?SC^sH9O6lZ7d`R^J0u975(5qb"
+"8q(1I_|Vp2w!W-U<Q#_}b5zzfs<OAE2vB6i1)SB!Xqor%2j`RqcE0~z4?FhG)ZLWJ(2iMKwnHQWuZhlhd+0ORL~n`!QA;gZW01$rR=P|jIOz`q{2OsK7Oc_!P+x^i@nqpr<oiP2D~V)9&O`VzzqFwvB_xT7-&(*K{q-BrD`A~)3mE9VOH%iW1FyNFoP=EGcM!+c)v;Ts"
+"W5k1W1DF0f@k$QO>=bD{9NMuPxvS2Q0_lC!a;zV@AgtBPxCSn|xGo&a0OMEZ$SSEbx+>zHahFZz-wQan$0a%~wzO$M>AxcJLCk%dqUk!O-6p_lY@K<X*70$on>t~!CJ{=9%Ccu*J;a=?7w481BKUL7R?;|ll+D$(RzX)D3L4c>S^Di;T;2f+oN<Jg`eeIa=lLk4*9Zjb"
+"9<hcrYKLp9yy#*SM{PR!{E0}xW~c8Ip+o=rPPtz2S*y^>yRmXhk_I>TDa#SQvrPaZUvqOOYBhcd5sGxB#YxZ?GcOhUBYg*tZ3fiT&>pb-P8o7zb?W7s2E!y}Yo8+n={J}&#$1gqK+MPD+p4ViHcEnbc$@3xp$F?+593JpSykxM(a%ZF;Gx6Q+t#PMFdk?>KNxz=JL)^c"
+"t*=5SuSPYGvP6fD%16>(^0=X9U|h}4OL$zMvGobm9%bCtQ>CA7t#Zu^nQlCK<d?AYsYrw9N=S#<F7T~)m*jMpnnYo3F0G%WWi^T6PdMZ#SG9IlTT;hOst9e1B>QXfTIiN46AZf}r1QNae>bXA=G#GH#g`q{i!zQR0*-)JcujvM-A#P~)QuKvntPpa!jWP=V?1uS5qsXe"
+";yB2@*2pWVd+*#sFClM>CWQ+dwdL6-dYJC#f5h;|9oj3Rt&e>&%uMi4)h_3q1K%7$_tWSwx$~9DkPRQ?OLnps!$v4Onap#QwEZaAe{ccJK(1~auC|b`2~yFhDRBMqFA}RuCqaxY(j`hPzP$^Pvl@d&wT<v%pEzZA;52EvPGv~rC>AbzM@usqteKdAJWDCDedzrIR}}nc"
+"8(U8+gW7-jZn5Cw_I5Qk?SAajvZ(ore8n`yc%g{y;>dqaNr95$Bb7^N6HJi1PkXo)&Q^AbjR@L`V;F&y#D1uv(Hig7mW}By9u6UnP!Ap>ILvt$C#Nm24A9;(K@VY3v3(tku=K3~x&aP6SvX}&jT&98PSEjy?BmpC=|z4cO8F^tel-!At#zO6&xAno$nxP@WU9S7%}9Yc"
+"mjctq(ze}?kL^beAV%ZcnHTphEv<VcQdKCBi12!o&_Ot-k?Jl_c7xraMDp4)SEB8J9*>?c()r*w-aHjxJ)A!2f{)2U*`5=pK{B)wP|1TvgtR^=yqI?h?3l{n#>{$|55b_jfrbFo2xjX`Sr^xgz;Bp78if7oCpN929l%`;5dqk$WDzH>sO=y_v1sAVWl6F1J;ITu{EQ#Z"
+"USO^nES@z>4k}i&0??tf%RO*yxeMmdbIGgvBPEg$w*PS4;m>-tbHL&J*h7FRzqmzEwJ<`n>gY7QOKp&kkgM-dBgs9J-_9f@3%|A)I>{l6gJG8g96(dJ0+{~L{Ms#PrtZ_Gi?WM_&1~z5SOS`U5L`vdqEOXlDpl|1#o{Tn(i{x=$-VbBH%_EtFbx99JRD(22-E0EBbW46"
+"MBA|5e$4f{|Kb9Ipcow9o0aKktP%K!X3rg<LHT~z(fXkdFR@Ici7sG#oNG&y2gdI#W&KuNNO(-;Wlf@JOQ)mSa5ZuXt-sC!Jag3*E?Fr@{kyMx!S^n!O`&KdiJpXf(>}SB4S=ZdB%l(c6KlqD?sN@U7{?^0PSx=Fde-WpaOh6tx@w5JY$uh_Fi<dvy%LUIjshisr{;Ij"
+"VrP4n&GvTLTT^vOC^QJ1=CL#>-kRom4kYXyeAxBg%I*ym97a(*VAgj$<o-eA=<q0E;~v;%;uw%Lmhcw*{h(~rVT8bJFJ48jA1V<D$5J`s#D%6V(&%YbVro9GdFsxDz`*~gGfaI!KB?*E=k?PeSX2Fpp5X?_-r;kK2AH=8>>06+)bo<tE0m?eSlHSq1O+m$`I%UJAx*Hy"
+"h{2cqoRqbidLN<;{BK5IAV!MCVMN~+W7pyWI-t-lF-?baq&&lcwgk@;e_O2TpE%}1E<-1JVHNT@1sqcdr^|`3!DtH$vRbU!6|rgwsjHm(lsUz(e#!oa^SXywJ8Zlusw2%o{nZS_s#am>T_acPvy1x+zHY%!pbo5|P0V1Ky+!~fKo@QjgB{zRyP%XRjpsTye0kp-4vz7l"
+"$eCb&vC0n;^uFpK^H!S)Edx3z{Zz=Oa{N|<jf)(24A5TI%b2yFf~!>i^4i;Xx5_Q9&>KYgf+fMPU7WHCp8VN!(h!?m`=bps_*N+b@uk>cdjJ3cf(!x=V&KPY00FZYfi(aCV4vQ2vBYQl0ssI200dcD")))
