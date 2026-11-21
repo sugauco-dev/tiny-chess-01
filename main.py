@@ -1,5 +1,5 @@
-import lzma,base64 # tiny-chess-01
-exec(lzma.decompress(base64.b85decode(
+import lzma,base64 # tiny-chess-01 v5h
+exec(lzma.decompress(base64.b85decode( 
 "{Wp48S^xk9=GL@E0stWa8~^|S5YJf5;2MAo7hM1}n@VT6Qap3u7A1{kq%B%pNR+$DLwL$0iwrp^5Bi%=rE4sTEkelc36)0bsGBg5%DD?GsD*j4wNe6sMJ0LoO=J&pl%=87;il&0^Ast^bCg<WFe&C>62M{V_UglRkVU<D42MDIW#8&LPp$YFi9vO*t3QxV9<JSXT$el9"
 "`62~hd{1Ti5x{%WTg542#(FC7j}O=(8b2@ek-<!0N;f@kTo}z6VoC8TWoRuK#hS1^ry?{hZXoT&k@o>J`13<x_20eHNj}hwfYXZPpVDj`&Cz)wvk*3rmpguyxH{(aHETLQVL86aun4Q1li~^=S&G4tJB@TGN~D!H{M`dg^)B)OG)Vpt@iLk77BK+ESK+>e<1i9J$>GJY"
 "f{@Uk6luXli+HiE`n?2xVX7l61Xr=4wS6y%whc;$MYDnBdZd_6X{AZOqmBleB%upkS;DeldsSXpPQTasuE-X*bTdrbASnXIVhViK>$g)i*r@^{AawmWX=hS%>ni@g4b;UX1m;TKjQ|QYw1ViXb9^nL74;fsP(1qM*MY1w>HB@>YVQw1y77aEK&~r*kaSlR9{Gf_gW<qk"
